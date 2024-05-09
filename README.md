@@ -33,6 +33,14 @@
 - 🏠 Don't hesitate to drop me a **👋** on Discord – diaazg
 <!--Intro end-->
 
+<!-- statictics start -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaazg)](https://github.com/diaazg/github-readme-stats)
+
+
+<!-- statictics end -->
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
