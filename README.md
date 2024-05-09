@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p align="center">
+<h1>
 hello world
-</p>
+</h1>
 
 <!--
 **diaazg/diaazg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
