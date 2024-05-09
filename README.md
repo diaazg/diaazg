@@ -36,7 +36,7 @@
 <!-- statictics start -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaazg)](https://github.com/diaazg/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaazg&hide=contribs,prs)
 
 
 <!-- statictics end -->
