@@ -21,7 +21,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **ElvaX, flutter dovelopper**
 
-- 🌱 I’m currently learning **Back end and mobile native technologies**
+- 🌱 I’m currently learning **Back end and IA technologies**
 
 - 📫 Feel free to reach me out **md.zellagui@esi-sba.dz**
 
