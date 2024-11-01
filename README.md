@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **ElvaX, flutter dovelopper**
+- 🔭 I’m currently 4th year IA student **ESI SBA**
 
 - 🌱 I’m currently learning **Back end and IA technologies**
 
