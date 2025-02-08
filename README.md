@@ -33,7 +33,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaazg&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diaazg&langs_count=5&count_private=true&hide_progress=true&hide=C#,CMake)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diaazg&langs_count=5&count_private=true&hide_progress=true&hide=C++,CMake)
 
 
 <!-- statictics end -->
