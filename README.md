@@ -33,7 +33,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaazg&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diaazg&langs_count=5&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diaazg&langs_count=5&count_private=true&token=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)
 
 
 <!-- statictics end -->
