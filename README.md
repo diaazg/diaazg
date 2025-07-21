@@ -48,7 +48,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,java,nestjs,js,ts,bash,kotlin,flutter,swift,swiftui,nodejs,express,django,fastapi,postgres,mysql,mongodb,sqlite,prisma,firebase,figma,postman,docker,anaconda,sklearn,tensorflow,pytorch,opencv,pkl,linux,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,java,nestjs,js,ts,bash,kotlin,flutter,swift,nodejs,express,django,fastapi,postgres,mysql,mongodb,sqlite,prisma,firebase,figma,postman,docker,anaconda,sklearn,tensorflow,pytorch,opencv,pkl,linux,ubuntu&perline=14" />
   </a>
 </p>
 
