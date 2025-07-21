@@ -21,7 +21,7 @@
 <!--Intro start-->
 - 🔭 I’m currently 4th year IA student **ESI SBA**
 
-- 🌱 I’m currently learning **Data engineering and IA technologies** after 2 years experience with **Mobile development**
+- 🌱 I’m currently learning **Data engineering and IA technologies** while keep enhancing my **Mobile development** skills.
 
 - 📫 Feel free to reach me out **md.zellagui@esi-sba.dz**
 
@@ -48,7 +48,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,java,nestjs,js,ts,bash,kotlin,flutter,nodejs,express,django,fastapi,postgres,mysql,mongodb,sqlite,prisma,firebase,figma,postman,docker,anaconda,sklearn,tensorflow,pytorch,opencv,pkl,linux,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,java,nestjs,js,ts,bash,kotlin,flutter,swift,swiftui,nodejs,express,django,fastapi,postgres,mysql,mongodb,sqlite,prisma,firebase,figma,postman,docker,anaconda,sklearn,tensorflow,pytorch,opencv,pkl,linux,ubuntu&perline=14" />
   </a>
 </p>
 
