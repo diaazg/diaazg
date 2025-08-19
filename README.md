@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently 4th year IA student **ESI SBA**
+- 🔭 I’m currently final year IA student **ESI SBA**
 
 - 🌱 I’m currently learning **Data engineering and IA technologies** while keep enhancing my **Mobile development** skills.
 
