@@ -21,7 +21,7 @@
 <!--Intro start-->
 - 🔭 I’m currently final year IA student **ESI SBA**
 
-- 🌱 I’m currently learning **Data engineering and IA technologies** while keep enhancing my **Mobile development** skills.
+- 🌱 I’m currently learning **Data engineering and AI technologies** while keep enhancing my **Mobile development** skills.
 
 - 📫 Feel free to reach me out **md.zellagui@esi-sba.dz**
 
