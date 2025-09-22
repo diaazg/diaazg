@@ -7,6 +7,11 @@
   </ul>
 </div>
 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1sdMlXt0A7xhm5gRQ2aue5zhfZlbG_PeI/view" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_CV-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge">
+  </a>
+</div>
 
 
 
@@ -65,11 +70,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamed-diaa-eddine-zellagui-5b0112220/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/diaa_zellagui/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<div align="center">
-  <a href="https://drive.google.com/file/d/your-cv-link-here/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_My_CV-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge">
-  </a>
-</div>
+
 
   
 </p>
