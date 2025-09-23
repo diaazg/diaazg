@@ -24,7 +24,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently final year AI student **ESI SBA**
+- 🔭 I’m currently final year AI student **ESI SBA** looking for AI internship for 6 months.
 
 - 🌱 I’m currently learning **Data engineering and AI technologies** while keep enhancing my **Mobile development** skills.
 
