@@ -24,13 +24,12 @@
 
 
 <!--Intro start-->
-- 🔭 Final year AI student at **ESI SBA** looking for 6 months AI internship.
-
-- 🌱 I’m currently learning **Data engineering and AI technologies** while keep enhancing my **Mobile development** skills.
-
-- 📫 Feel free to reach me out **md.zellagui@esi-sba.dz**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord – diaazg
+- 🎓 Final-year AI engineering student at **ESI SBA**, specializing in **Artificial Intelligence & Data Science**.
+- 🔬 Currently exploring **Continual Learning**, **Computer Vision**, and **Large Language Models**.
+- 📱 Passionate about **mobile development** and building end-to-end AI applications.
+- 📫 Contact me: **md.zellagui@esi-sba.dz**
+- 🏠 Say hi on Discord: **diaazg**
+<!-- Intro end -->
 <!--Intro end-->
 
 <!-- statictics start -->
