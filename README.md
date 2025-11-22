@@ -24,12 +24,10 @@
 
 
 <!--Intro start-->
-- 🎓 Final-year AI engineering student at **ESI SBA**, specializing in **Artificial Intelligence & Data Science**.
-- 🔬 Currently exploring **Continual Learning**, **Computer Vision**, and **Large Language Models**.
-- 📱 Passionate about **mobile development** and building end-to-end AI applications.
-- 📫 Contact me: **md.zellagui@esi-sba.dz**
-- 🏠 Say hi on Discord: **diaazg**
-<!-- Intro end -->
+-	🎓 Final-year AI Engineering student at ESI SBA | AI & Data Science enthusiast
+-	🔬 Exploring **Continual Learning**, **Computer Vision**, & **Large Language Models**
+-	📱 Ex-Mobile Developer (2 yrs) building professional apps 
+- 📫 Reach me: md.zellagui@esi-sba.dz | 🏠 Discord: diaazg
 <!--Intro end-->
 
 <!-- statictics start -->
