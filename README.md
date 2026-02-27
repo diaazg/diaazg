@@ -24,9 +24,9 @@
 
 
 <!--Intro start-->
--	🎓 Final-year AI Engineering student at ESI SBA | AI & Data Science enthusiast
--	🔬 Exploring **Continual Learning**, **Computer Vision**, & **Large Language Models**
--	📱 Ex-Mobile Developer (2 yrs) building professional apps 
+-	🎓 Final-year AI & DS student at ESI SBA
+-	🔬 Exploring **Vision Language Models** and **MultiModal**.
+-	📱 Ex-Mobile Developer (3 yrs) building professional apps 
 - 📫 Reach me: md.zellagui@esi-sba.dz | 🏠 Discord: diaazg
 <!--Intro end-->
 
