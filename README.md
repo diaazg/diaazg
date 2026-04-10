@@ -24,21 +24,11 @@
 
 
 <!--Intro start-->
--	🎓 Final-year AI & DS student at ESI SBA
+-	🎓 Final-year AI & DS student at ESI SBA.
 -	🔬 Exploring **Vision Language Models** and **MultiModal**.
--	📱 Ex-Mobile Developer (3 yrs) building professional apps 
-- 📫 Reach me: md.zellagui@esi-sba.dz | 🏠 Discord: diaazg
+-	📱 Ex-Mobile Developer (3 yrs) building professional apps.
+- 📫 Reach me: md.zellagui@esi-sba.dz | 🏠 Discord: diaazg | 📲 WhatsApp: +213 792007375
 <!--Intro end-->
-
-<!-- statictics start -->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaazg&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diaazg&langs_count=4&count_private=true&hide_progress=true&hide=c%2B%2B,CMake)
-
-
-<!-- statictics end -->
 
 
 <!--h1 without bottom border-->
