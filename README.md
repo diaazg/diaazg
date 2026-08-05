@@ -17,9 +17,9 @@
   </ul>
 </div>
 <!--Intro start-->
--    🎓 Final-year AI & DS student at ESI SBA.
--    🔬 Exploring **Vision Language Models** and **MultiModal**.
--    📱 Ex-Mobile Developer (3 yrs) building professional apps.
+- 🎓 Final-year AI & DS student at ESI SBA.
+- 🔬 Exploring **Vision Language Models** and **MultiModal**.
+- 📱 Ex-Mobile Developer (3 yrs) building professional apps.
 - 📫 Reach me: md.zellagui@esi-sba.dz | 🏠 Discord: diaazg | 📲 WhatsApp: +213 540943633
 <!--Intro end-->
 <!--h1 without bottom border-->
