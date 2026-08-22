@@ -4,7 +4,7 @@
 
 **AI & Data Science Engineer** — State Engineer + M.Sc., ESI-SBA (2026)
 
-*Document AI · Historical Text Recognition · Multimodal Learning*
+*Document AI · Multimodal Learning · Production ML Systems*
 
 <br>
 
@@ -18,21 +18,17 @@
 
 ---
 
-I build models that read what time has damaged — datasets, restoration models, and annotation pipelines for historical Arabic manuscripts, plus production ML systems along the way.
+I build models that read what time has damaged. My research specialty is **document AI and historical text recognition** — co-creator of **[AraMS-28k](https://huggingface.co/ArchaText)**, the largest publicly released line-level dataset of historical Arabic manuscripts (**28,600 lines · 14 books · 4 script traditions**). The specialty is a flag, not a fence:
 
-### Featured work
+- **Depth** — document image analysis · HTR · recognition-aware restoration · weakly-supervised annotation · vision-language models
+- **Range** — spatial ML & causal inference (2SLS, Moran's I) · model serving with FastAPI/Flask · distributed pipelines (PySpark, Airflow) · LLM agents (LangChain/LangGraph) · medical image segmentation · sports prediction
 
-- 📜 **[AraMS-28k](https://github.com/ArchaText/AraMS-28k-Dataset)** — the largest publicly released line-level dataset of historical Arabic manuscripts: **28,600 lines · 14 books · 4 script traditions**, with margin and insertion-anchor annotations → [on Hugging Face](https://huggingface.co/ArchaText)
-- 🔧 **[AraMS-Restore](https://github.com/ArchaText/AraMS-Restore)** *(sole author)* — recognition-aware restoration: a U-Net supervised by a frozen OCR critic, improving character error rate on genuinely damaged lines **where pixel-loss restoration shows no gain**
-- 📝 **[RefLAM](https://github.com/ArchaText/Reflam-pipeline)** — reference-grounded annotation: multimodal-LLM OCR + fuzzy sequence alignment against clean ground-truth editions *(co-built — my OCR + alignment engine lives in the [development history](https://github.com/ArchaText/ArchaText-Dataset))*
-- 🗺️ **London Retail Suitability** — spatial ML over **4,994 London LSOAs**: 2SLS endogeneity correction, RF-derived weights, Moran's I spatial validation, live Streamlit dashboard <!-- TODO: link once public -->
-- ⚽ **Football Predictor** — three models (match outcome · xG · injury risk) behind one FastAPI surface with SHAP explanations and a model registry <!-- TODO: link once public -->
-- 🎾 **ATP Futures Predictor** — PySpark pipeline over **84k matches** with leakage-safe symmetric encoding and temporal splits, served through 17 Flask endpoints <!-- TODO: link once public -->
+The pinned repositories below are the tour — each README has the numbers, the method, and a demo.
 
 ### Papers (in preparation)
 
-- **RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts** 
-- **AraMS-28k: A Large-Scale Line-Level Dataset of Historical Arabic Manuscripts with Margin and Insertion-Anchor Annotations**
+- **RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts**.
+- **AraMS-28k: A Large-Scale Line-Level Dataset of Historical Arabic Manuscripts with Margin and Insertion-Anchor Annotations**.
 
 ### Stack
 
