@@ -62,7 +62,7 @@
 
 <br><br>
 
-📱 **3 years freelance** — apps for early-stage startups
+📱 **3 years freelance**
 
 </td>
 </tr>
