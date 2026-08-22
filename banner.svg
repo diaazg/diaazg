@@ -1,1 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Mohamed Diaa Zellagui — AI and Data Science Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0%"   stop-color="#6D28D9"/>
+      <stop offset="50%"  stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <pattern id="lines" width="34" height="34" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="34" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
 
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#lines)"/>
+
+  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="132" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="0.5">Mohamed Diaa Zellagui</text>
+    <text x="640" y="180" font-size="23" font-weight="400" fill="#E2E2FF">AI &amp; Data Science Engineer  ·  ESI-SBA 2026</text>
+    <line x1="450" y1="208" x2="830" y2="208" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1"/>
+    <text x="640" y="243" font-size="21" font-weight="400" fill="#D6DCFF">I build things from scratch to understand them</text>
+  </g>
+</svg>
