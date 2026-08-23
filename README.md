@@ -78,17 +78,6 @@
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diaazg&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diaazg&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diaazg&theme=github_dark" alt="Languages by repo" height="180">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diaazg&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diaazg&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diaazg&theme=github_dark" alt="Languages by commit" height="180">
-</picture>
-
 </div>
 
 ---
@@ -98,8 +87,8 @@
 ## 🗣️ Languages
 
 <img src="https://img.shields.io/badge/Arabic-Native-16A34A?style=for-the-badge&labelColor=1a1a1a" alt="Arabic — Native">
-<img src="https://img.shields.io/badge/French-Fluent-16A34A?style=for-the-badge&labelColor=1a1a1a" alt="French — Fluent">
-<img src="https://img.shields.io/badge/English-Fluent-16A34A?style=for-the-badge&labelColor=1a1a1a" alt="English — Fluent">
+<img src="https://img.shields.io/badge/French-Intermediate-16A34A?style=for-the-badge&labelColor=1a1a1a" alt="French - Intermediate">
+<img src="https://img.shields.io/badge/English-Advanced-16A34A?style=for-the-badge&labelColor=1a1a1a" alt="English — Advanced">
 
 <br>
 
@@ -116,7 +105,7 @@
 
 <br>
 
-**Open to research and engineering roles** in computer vision, NLP, and multimodal ML — onsite or remote. Also open to **PhD positions** and research collaborations.
+**Open to research and engineering roles** in computer vision, NLP, and multimodal ML — onsite or remote.
 
 <sub>🎓 ESI-SBA double degree — State Engineer + M.Sc. in AI & Data Science &nbsp;·&nbsp; 📍 Algeria, open to relocation</sub>
 
