@@ -13,7 +13,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Published_datasets-28,600_annotated_lines-6D28D9?style=for-the-badge&labelColor=1a1a1a" alt="Published datasets: 28,600 annotated lines">
-<img src="https://img.shields.io/badge/Research_papers-2_in_preparation-7C3AED?style=for-the-badge&labelColor=1a1a1a" alt="Research papers: 2 in preparation">
+<img src="https://img.shields.io/badge/Research_papers-2-7C3AED?style=for-the-badge&labelColor=1a1a1a" alt="Research papers: 2">
 <br>
 <img src="https://img.shields.io/badge/Data_pipelines-multi--source_ETL,_end_to_end-4F46E5?style=for-the-badge&labelColor=1a1a1a" alt="Data pipelines: multi-source ETL, end to end">
 <img src="https://img.shields.io/badge/Models_deployed-behind_REST_APIs-0369A1?style=for-the-badge&labelColor=1a1a1a" alt="Models deployed behind REST APIs">
@@ -35,16 +35,16 @@
 <img src="https://img.shields.io/badge/Vision–Language_Models-6D28D9?style=flat-square" alt="Vision-Language Models">
 <img src="https://img.shields.io/badge/Video_Understanding-6D28D9?style=flat-square" alt="Video Understanding">
 <img src="https://img.shields.io/badge/Weak_&_Self–Supervision-6D28D9?style=flat-square" alt="Weak and Self-Supervision">
-<img src="https://img.shields.io/badge/Medical_Imaging-6D28D9?style=flat-square" alt="Medical Imaging">
+<img src="https://img.shields.io/badge/Anomaly_detection-6D28D9?style=flat-square" alt="Anomaly detection">
 <img src="https://img.shields.io/badge/Document_AI_&_HTR-6D28D9?style=flat-square" alt="Document AI and HTR">
 <img src="https://img.shields.io/badge/Dataset_Design_&_Benchmarking-6D28D9?style=flat-square" alt="Dataset Design and Benchmarking">
 
 <br><br>
 
-📄 **Papers in preparation**
+📄 **Papers**
 
-<a href="https://drive.google.com/file/d/19DRXQ_d546Uca_2D98SKKz0LVkBeogvE/view?usp=sharing"><img src="https://img.shields.io/badge/📄_RefLAM-draft-7C3AED?style=flat-square&labelColor=1a1a1a" alt="RefLAM — draft"></a>
-<a href="https://drive.google.com/file/d/1pQB5gsqopoi3_kMmVsQ8Q00DjnvPmOeB/view?usp=sharing"><img src="https://img.shields.io/badge/📄_AraMS--28k-draft-7C3AED?style=flat-square&labelColor=1a1a1a" alt="AraMS-28k — draft"></a>
+<a href="https://arxiv.org/abs/2608.25140"><img src="https://img.shields.io/badge/📄_RefLAM-preprint-7C3AED?style=flat-square&labelColor=1a1a1a" alt="RefLAM"></a>
+<a href="https://arxiv.org/abs/2608.26921"><img src="https://img.shields.io/badge/📄_AraMS--28k-preprint-7C3AED?style=flat-square&labelColor=1a1a1a" alt="AraMS-28k — draft"></a>
 
 </td>
 <td valign="top" width="50%" align="center">
@@ -101,7 +101,7 @@
 <br>
 <a href="https://huggingface.co/Diaazg"><img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"></a>
 <a href="https://www.kaggle.com/mohameddiaazellagui"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="https://drive.google.com/file/d/1bqMmhgeuK12cyXis-QVAA-0mJC-pc88R/view?usp=sharing"><img src="https://img.shields.io/badge/📄_View_CV-1a1a1a?style=for-the-badge" alt="View CV"></a>
+<a href="https://drive.google.com/file/d/1rqQJuR3b72tYIJ5QcFM_oN9xIjdD2pQ_/view?usp=sharing"><img src="https://img.shields.io/badge/📄_View_CV-1a1a1a?style=for-the-badge" alt="View CV"></a>
 
 <br>
 
