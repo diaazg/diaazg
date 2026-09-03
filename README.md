@@ -94,19 +94,18 @@
 
 ## 📬 Get in touch
 
-<a href="mailto:mohamedzellagui585@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/zellagui-mohamed-diaa-eddine-5b0112220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:md.zellagui@esi-sba.dz"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/zellagui-mohamed-diaa-eddine-5b0112220"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://wa.me/213540943633"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://discord.com/users/diaazg"><img src="https://img.shields.io/badge/Discord-@diaazg-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: diaazg"></a>
 <br>
+<a href="https://scholar.google.com/citations?user=BAqc954AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 <a href="https://huggingface.co/Diaazg"><img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"></a>
-<a href="https://www.kaggle.com/mohameddiaazellagui"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="https://drive.google.com/file/d/1rqQJuR3b72tYIJ5QcFM_oN9xIjdD2pQ_/view?usp=sharing"><img src="https://img.shields.io/badge/📄_View_CV-1a1a1a?style=for-the-badge" alt="View CV"></a>
+<a href="https://drive.google.com/file/d/14w-LHA1RxjUseh87MoM7SumeAYRBrclE/view?usp=sharing"><img src="https://img.shields.io/badge/📄_View_CV-1a1a1a?style=for-the-badge" alt="View CV"></a>
 
 <br>
 
 **Open to research and engineering roles** in computer vision, NLP, and multimodal ML — onsite or remote.
 
-<sub>🎓 ESI-SBA double degree — State Engineer + M.Sc. in AI & Data Science &nbsp;·&nbsp; 📍 Algeria, open to relocation</sub>
+<sub>🎓 AI Research Engineer &nbsp;·&nbsp; 📍 Algeria, open to relocation</sub>
 
 </div>
